@@ -1,4 +1,4 @@
-# HTML, CSS and Javascript for Web Developers coursera course
+# HTML, CSS and Javascript  coursera 
 
 This repository contains my submissions for this course as the part of peer grading review
 
