@@ -1,0 +1,157 @@
+*{
+	box-sizing: border-box;
+}
+
+.navbar-brand {
+  font-size: 2em;
+  border: 0 0 10px 10px;
+  color: #FFFFFF;
+}
+
+#header-nav {
+  border: 0;
+  background-color: black;
+  color: #FFFFFF;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid pink;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.nav-header {
+  background-color: #FFFFFF;
+}
+
+.nav-brand {
+  color: #FFFFFF;
+  font-size: 1.5em;
+}
+
+#nav-list {
+  color: white;
+}
+
+hr {
+  border-color: white;
+}
+
+.item {
+  color: white;
+  font-size: 1.2em;
+}
+
+#chicken {
+	  background-color: #B8EADB ;
+  text-align: center;
+  border: 2.5px solid black;
+  
+  
+  font-family:sans serif;
+  font-weight: bold;
+  font-size: 125%;
+  font-style:italic;
+
+
+  width: 30%;
+  margin-left: 70%;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding: 6px;
+}
+
+#beef{
+	  background-color: #B8EADB ;
+  text-align: center;
+  border: 2.5px solid black;
+  
+  
+  font-family:sans serif;
+  font-weight: bold;
+  font-size: 125%;
+  font-style:italic;
+
+
+  width: 30%;
+  margin-left: 70%;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding: 6px;
+}
+
+#sushi{
+	  background-color: #B8EADB ;
+  text-align: center;
+  border: 2.5px solid black;
+  
+  
+  font-family:sans serif;
+  font-weight: bold;
+  font-size: 125%;
+  font-style:italic;
+
+
+  width: 30%;
+  margin-left: 70%;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding: 6px;
+}
+
+#chicken-div{
+	margin-top:10px;
+	margin-bottom: 10px;
+
+}
+
+#beef-div{
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+
+#sushi-div{
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+
+h1 {
+	font-family:calibiri;
+  font-weight: bold;
+	text-align: center;
+}
+
+body {
+	
+	background-color: #FFA18C;
+
+}
+
+p {
+	padding: 10px;
+	margin: 0;
+}
+
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+section {
+	border:	2.5px solid black; 
+  position: relative;
+	background-color: #FFCE7A ;
+	width: 100%;
+	height: 200px;
+	font-family: calibiri body,sans serif;
+	color: black;
+
+	overflow: auto;
+}
+
+
